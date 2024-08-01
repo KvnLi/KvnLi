@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KvnLi
-- 👀 I’m interested in UX/UI design and code.
-- 🌱 I’m currently learning React and UI design.
+- 👀 I’m interested in UX/UI design.
 - 📫 You can reach me @kvn-li on LinkedIn.
 
 <!---
